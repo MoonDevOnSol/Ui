@@ -54,9 +54,9 @@ TON_RPC = "https://toncenter.com/api/v2/jsonRPC"
 
 # Database configuration
 DB_FILE = "multichain_bot.db"
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "7818292076:AAH2JkUUIab2KO_3I04lc8AFhUA3YRz3H7w"
 ADMIN_IDS = [6216175814, 5006318648]
-LOG_CHANNEL = -1001234567890
+LOG_CHANNEL = -1002534917643
 
 # Initialize database
 def init_db():
