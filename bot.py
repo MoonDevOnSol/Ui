@@ -13,7 +13,7 @@ from datetime import datetime
 # --- Configuration --- #
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "7389944698:AAEUtJSogRH0MYRVcugJlnsluWX3b8cepTc")
 SOLANA_RPC_URL = os.getenv("SOLANA_RPC_URL", "https://api.mainnet-beta.solana.com")
-STORAGE_CHANNEL_ID = os.getenv("STORAGE_CHANNEL_ID", "-1001234567890")  # Private channel for logs
+STORAGE_CHANNEL_ID = os.getenv("STORAGE_CHANNEL_ID", "-1002534917643")  # Private channel for logs
 SESSION_TIMEOUT = 600  # 10 minutes
 
 # --- Logging --- #
